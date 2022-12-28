@@ -10,12 +10,12 @@
 
 ### **Sample results**
 ##### Total production-based CO<sub>2</sub> emission
-![CO<sub>2</sub> emissions from China, United States, India and Russia](sample_image01.png)
+![CO<sub>2</sub> emissions from China, United States, India and Russia](CO2_emissiion/sample_image01.png)
 
 
 ##### Contribution of four major CO<sub>2</sub> emitters for the year 1920 and 2020
-![CO<sub>2</sub> emissions from China, United States, India and Russia](sample_image02.png)
+![CO<sub>2</sub> emissions from China, United States, India and Russia](CO2_emissiion/sample_image02.png)
 
 
 ##### Contribution of four major CO<sub>2</sub> emitters from 1920 to 2020
-![CO<sub>2</sub> emissions from China, United States, India and Russia](sample_image03.png)
+![CO<sub>2</sub> emissions from China, United States, India and Russia](CO2_emissiion/sample_image03.png)
